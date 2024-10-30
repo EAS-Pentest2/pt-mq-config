@@ -37,8 +37,8 @@ app:
     - name: mqManagerName
       value: "meiQueMgr"
     - name: mqHostName  
-      value: "meiquemgr-9906.qm.us-south.mq.appdomain.cloud"
+      value: "9.30.195.248"
     - name: mqPort
-      value: "30714"
+      value: "8081"
     - name: mqAppUserName
       value: "easemquser1"  
